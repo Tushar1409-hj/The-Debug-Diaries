@@ -1,5 +1,5 @@
 ---
-title: "🔥 Welcome to The Debug Diaries"
+title: "Welcome to The Debug Diaries"
 datePublished: Wed Jul 16 2025 15:33:36 GMT+0000 (Coordinated Universal Time)
 cuid: cmd64ffwd000a02jv6pad3785
 slug: welcome-to-the-debug-diaries
