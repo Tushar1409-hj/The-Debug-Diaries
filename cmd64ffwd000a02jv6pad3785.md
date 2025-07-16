@@ -44,8 +44,8 @@ Here on **The Debug Diaries**, I’ll be sharing:
     
 * Anyone who wants simple explanations without the fluff
     
-
-Developers who enjoy sharing, learning, and growing together
+* Developers who enjoy sharing, learning, and growing together
+    
 
 ---
 
