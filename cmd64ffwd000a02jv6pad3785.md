@@ -69,4 +69,4 @@ Thanks for reading! 😊
 📬 You can also reach out or connect with me on -
 
 💻 **Source Code on GitHub**: [github.com/Tushar1409-hj](https://github.com/Tushar1409-hj)  
-🔗 **Connect with me on LinkedIn**: [linkedin.com/in/tushar1409](https://linkedin.com/in/tushar1409)
+🔗 **Connect with me on LinkedIn**: [linkedin.com/in/tushar1409](https://www.linkedin.com/in/tushar-jadhav-0997ab265/)
