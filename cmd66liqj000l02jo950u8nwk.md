@@ -138,7 +138,7 @@ That’s a huge first step toward becoming an Angular developer! 💪
 
 In the next post, we’ll dive into:
 
-> 🧱 **Understanding Angular Components — the Building Blocks of Angular Apps**
+> 🧱 **Understanding Angular Components — The Building Blocks of Angular Apps**
 
 We’ll break down the files created and explore what each piece does.
 
