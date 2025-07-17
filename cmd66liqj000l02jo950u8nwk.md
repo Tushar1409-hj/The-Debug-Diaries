@@ -146,4 +146,10 @@ Stay tuned on **The Debug Diaries!**
 
 ---
 
-💬 Have a question or feedback? Drop a comment or connect with me on -[https://www.linkedin.com/in/tushar-jadhav-0997ab265/](https://www.linkedin.com/in/tushar-jadhav-0997ab265/) & [https://github.com/Tushar1409-hj](https://github.com/Tushar1409-hj)
+### 🔗 Let's Connect and Explore More!
+
+📖 **Read the full series**: [ngtushar.hashnode.dev/angular-series](https://ngtushar.hashnode.dev/angular-series)  
+💻 **Source Code on GitHub**: [github.com/Tushar1409-hj](https://github.com/Tushar1409-hj)  
+🔗 **Connect with me on LinkedIn**: [linkedin.com/in/tushar1409](https://linkedin.com/in/tushar1409)
+
+If you found this post helpful, don’t forget to share it with your fellow developers and follow the series for more Angular insights! 🚀
