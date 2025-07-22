@@ -128,8 +128,9 @@ When you click the button, the current values of the form fields will be logged 
 
 In the next blog on **The Debug Diaries**, we’ll explore:
 
-⚙️ **Understanding Angular Directives**  
-You’ll learn how to use structural (`*ngIf`, `*ngFor`) and attribute directives to control how your app looks and behaves.
+🔀 Routing and Navigation in Angular 20
+
+Stay tuned and keep debugging with me!
 
 ---
 
